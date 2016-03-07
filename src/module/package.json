@@ -1,0 +1,22 @@
+{
+  "name": "orm-litemiddleware",
+  "version": "0.0.1",
+  "description": "Homework NYCDA ORM-Lite Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoetRomijn/ORM-LiteMiddleware.git"
+  },
+  "author": "Loet Romijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoetRomijn/ORM-LiteMiddleware/issues"
+  },
+  "homepage": "https://github.com/LoetRomijn/ORM-LiteMiddleware#readme",
+  "dependencies": {
+    "pg": "^4.5.1"
+  }
+}
