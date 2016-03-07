@@ -1,6 +1,6 @@
 var ormlite = require('./module/ormlite.js');
 
-var connectionString = 'postgres://loet:@localhost:5432/loet_database'
+var connectionString = 'postgres://' + process.env.POSTGRES_USER + ':' + '@localhost/loet_database'
 
 
 
